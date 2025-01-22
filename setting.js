@@ -25,10 +25,10 @@ const Styles = (text, style = 1) => {
   return output.join('');
 };
 
-global.namaowner = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
-global.owner = "923107612528"
-global.namabot = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
-global.botname = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.namaowner = "𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷"
+global.owner = "254732982940"
+global.namabot = "𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷"
+global.botname = "𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷"
 global.simbol = "⌑"
 global.autoJoin = false
 global.domain = "-"
@@ -39,14 +39,14 @@ global.location = '1' // id location
 global.dray = fs.readFileSync("./database/menu.mp4")
 global.codeInvite = "FwtMxovJqW3Jj55x524hjT"
 global.sessionName = 'drayyy' //Gausah Juga
-global.save = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.save = "𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷"
 global.keyopenai = `sk-proj-EXdCaNbBfwrOJaqCjcTDT3BlbkFJyFvdbMAMopdT2vaEhuZj`
 global.tekspushkon = ""
 global.tekspushkonv2 = ""
 global.packname = ""
-global.author = "Sticker By 𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.author = "Sticker By 𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷"
 
-global.namastore = "𝙈𝙧ܓ𝙃𝙖𝙨𝙨𝙖𝙣"
+global.namastore = "𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷"
 global.dana = "088803536269" // NOMER DANA KAMU
 global.gopay = "" // NOMER GOPAY KAMU
 global.ovo = "" // NOMER OVO KAMU
@@ -61,7 +61,7 @@ LINK LU :`// TEXT JPM LU
 const mess = {
    wait: "*Wait..*",
    success: "*Success* ✔",
-   save: "*Success Hassan*",
+   save: "*Success 𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷*",
    on: "*Active*", 
    off: "*Not Active*",
    query: {
@@ -69,15 +69,15 @@ const mess = {
        link: "*Where is the Link*",
    },
    error: {
-       fitur: "*Ask Hassan*", 
+       fitur: "*Ask 𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷*", 
    },
    only: {
        group: "*Only For Groups*",
        private: "*Oly For Private Chats*",
-       owner: "*Only For Hassan*",
-       admin: "*Only For Hassan*",
-       badmin: "*Only For Hassan*",
-       premium: "*Only For Hassan*",
+       owner: "*Only For 𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷*",
+       admin: "*Only For 𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷*",
+       badmin: "*Only For 𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷*",
+       premium: "*Only For 𝙲𝙰𝚂𝙿𝙴𝚁 𝚃𝙴𝙲𝙷*",
    }
 }
 
